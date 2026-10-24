@@ -1,0 +1,101 @@
+[
+  {
+    "angle_deg": 30,
+    "minor_axis_variance": 0.1,
+    "x_to_y_slope": 0.5067300512923821,
+    "y_to_x_slope": 1.1821798837075577,
+    "x_to_y_intercept": 0.00451825216475367,
+    "y_to_x_intercept": -0.010473885900229964,
+    "slope_product": 0.599046073107953,
+    "theoretical_x_to_y_slope": 0.502853460261932,
+    "theoretical_r_squared": 0.6029776674937964
+  },
+  {
+    "angle_deg": 30,
+    "minor_axis_variance": 0.3,
+    "x_to_y_slope": 0.37462710939690436,
+    "y_to_x_slope": 0.6400381819871077,
+    "x_to_y_intercept": 0.0026965821894642775,
+    "y_to_x_intercept": 0.0005209101433913793,
+    "slope_product": 0.23977565402148,
+    "theoretical_x_to_y_slope": 0.3674047167570345,
+    "theoretical_r_squared": 0.23444976076555016
+  },
+  {
+    "angle_deg": 30,
+    "minor_axis_variance": 0.8,
+    "x_to_y_slope": 0.08954917498600588,
+    "y_to_x_slope": 0.10387369800285878,
+    "x_to_y_intercept": -0.01597716994676862,
+    "y_to_x_intercept": -0.007681080506754896,
+    "slope_product": 0.00930180395890153,
+    "theoretical_x_to_y_slope": 0.09116056881941456,
+    "theoretical_r_squared": 0.00928792569659442
+  },
+  {
+    "angle_deg": 45,
+    "minor_axis_variance": 0.1,
+    "x_to_y_slope": 0.8282105617327863,
+    "y_to_x_slope": 0.8016184759217448,
+    "x_to_y_intercept": -0.003892998480141406,
+    "y_to_x_intercept": -0.0036294846055736144,
+    "slope_product": 0.6639088882385283,
+    "theoretical_x_to_y_slope": 0.818181818181818,
+    "theoretical_r_squared": 0.6694214876033058
+  },
+  {
+    "angle_deg": 45,
+    "minor_axis_variance": 0.3,
+    "x_to_y_slope": 0.546635636990318,
+    "y_to_x_slope": 0.5241122986103487,
+    "x_to_y_intercept": 0.008642903348059327,
+    "y_to_x_intercept": 0.008342478850875074,
+    "slope_product": 0.2864984602053277,
+    "theoretical_x_to_y_slope": 0.5384615384615383,
+    "theoretical_r_squared": 0.2899408284023668
+  },
+  {
+    "angle_deg": 45,
+    "minor_axis_variance": 0.8,
+    "x_to_y_slope": 0.09851712309804657,
+    "y_to_x_slope": 0.09892365146508658,
+    "x_to_y_intercept": -0.006360986524216422,
+    "y_to_x_intercept": -0.0167259341454048,
+    "slope_product": 0.009745673548694189,
+    "theoretical_x_to_y_slope": 0.11111111111111106,
+    "theoretical_r_squared": 0.012345679012345671
+  },
+  {
+    "angle_deg": 60,
+    "minor_axis_variance": 0.1,
+    "x_to_y_slope": 1.196328021903839,
+    "y_to_x_slope": 0.49521979530158533,
+    "x_to_y_intercept": 0.008428640472337724,
+    "y_to_x_intercept": -0.0012601847319997053,
+    "slope_product": 0.5924453181207696,
+    "theoretical_x_to_y_slope": 1.199112097547684,
+    "theoretical_r_squared": 0.6029776674937967
+  },
+  {
+    "angle_deg": 60,
+    "minor_axis_variance": 0.3,
+    "x_to_y_slope": 0.6304373193442702,
+    "y_to_x_slope": 0.3506715081759925,
+    "x_to_y_intercept": -0.0016980636350221708,
+    "y_to_x_intercept": -0.005811125547574556,
+    "slope_product": 0.22107640558488503,
+    "theoretical_x_to_y_slope": 0.6381239817359021,
+    "theoretical_r_squared": 0.23444976076555024
+  },
+  {
+    "angle_deg": 60,
+    "minor_axis_variance": 0.8,
+    "x_to_y_slope": 0.11361336866024749,
+    "y_to_x_slope": 0.09887186603565543,
+    "x_to_y_intercept": -0.03080893601941303,
+    "y_to_x_intercept": 0.01225300906653959,
+    "slope_product": 0.011233165766035523,
+    "theoretical_x_to_y_slope": 0.10188534162169866,
+    "theoretical_r_squared": 0.009287925696594427
+  }
+]

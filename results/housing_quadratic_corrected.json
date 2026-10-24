@@ -1,0 +1,54 @@
+{
+  "candidates": [
+    {
+      "decay": 3.0,
+      "validation_mae": 4.278071800893357,
+      "test_mae": 3.679438057693678,
+      "best_epoch": 100
+    },
+    {
+      "decay": 1.0,
+      "validation_mae": 3.4033853133678527,
+      "test_mae": 3.0446802820642893,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.3,
+      "validation_mae": 2.964136556066687,
+      "test_mae": 2.7503125168797484,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.1,
+      "validation_mae": 2.758672673215868,
+      "test_mae": 2.73090660117097,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.03,
+      "validation_mae": 2.690375016482625,
+      "test_mae": 2.765510079952973,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.01,
+      "validation_mae": 2.6777282772143867,
+      "test_mae": 2.783077633370748,
+      "best_epoch": 100
+    }
+  ],
+  "selected_decay": 0.01,
+  "validation_mae": 2.6777282772143867,
+  "test_mae": 2.783077633370748,
+  "best_epoch": 100,
+  "settings": {
+    "seed": 314,
+    "preprocessing": "training rows only",
+    "quadratic": true,
+    "quadratic_scheme": "standardized",
+    "penalize_intercept": true,
+    "alpha": 0.001,
+    "batch_size": 10,
+    "epochs": 100
+  }
+}

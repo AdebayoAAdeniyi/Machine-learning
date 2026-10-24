@@ -1,0 +1,54 @@
+{
+  "candidates": [
+    {
+      "decay": 3.0,
+      "validation_mae": 4.383324549647192,
+      "test_mae": 3.731063862975575,
+      "best_epoch": 100
+    },
+    {
+      "decay": 1.0,
+      "validation_mae": 3.398557445710588,
+      "test_mae": 3.062601325859479,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.3,
+      "validation_mae": 2.9430007075978364,
+      "test_mae": 2.7355435850983714,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.1,
+      "validation_mae": 2.734631715637136,
+      "test_mae": 2.7321463259253993,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.03,
+      "validation_mae": 2.6706864149450937,
+      "test_mae": 2.77784127216236,
+      "best_epoch": 100
+    },
+    {
+      "decay": 0.01,
+      "validation_mae": 2.660532747956738,
+      "test_mae": 2.7990006351941803,
+      "best_epoch": 100
+    }
+  ],
+  "selected_decay": 0.01,
+  "validation_mae": 2.660532747956738,
+  "test_mae": 2.7990006351941803,
+  "best_epoch": 100,
+  "settings": {
+    "seed": 314,
+    "preprocessing": "all 506 rows (legacy)",
+    "quadratic": true,
+    "quadratic_scheme": "standardized",
+    "penalize_intercept": true,
+    "alpha": 0.001,
+    "batch_size": 10,
+    "epochs": 100
+  }
+}

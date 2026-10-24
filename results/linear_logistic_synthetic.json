@@ -1,0 +1,12 @@
+[
+  {
+    "dataset": "A",
+    "ols_training_accuracy": 0.8925,
+    "logistic_training_accuracy": 0.8975
+  },
+  {
+    "dataset": "B",
+    "ols_training_accuracy": 0.75,
+    "logistic_training_accuracy": 0.9075
+  }
+]

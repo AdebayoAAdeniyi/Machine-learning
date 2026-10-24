@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+.DS_Store
+outputs/
+
+# Keep data out of the repository by default, so customer records and other
+# private tables cannot be committed by accident. The two datasets this
+# repository does ship are listed as exceptions below.
+*.pkl
+*.pickle
+*.csv
+*.gz
+*.npy
+*.npz
+!data/housing.pkl

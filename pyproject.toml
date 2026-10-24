@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "classical-ml-experiment-portfolio"
+version = "0.1.0"
+description = "Supervised learning from the mathematics up: least squares, logistic and softmax regression, gradient descent"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.23", "pandas>=1.5"]
+[project.optional-dependencies]
+retention = ["imbalanced-learn>=0.10", "scikit-learn>=1.2"]
+plots = ["matplotlib>=3.6"]
+test = ["pytest>=7"]
+[tool.setuptools.packages.find]
+include = ["ml_portfolio*"]
